@@ -1,0 +1,139 @@
+@media (min-width: 1400px) {}
+@media (min-width: 1200px) and (max-width: 1399px){}
+@media (min-width: 992px) and (max-width: 1199px){}
+@media (min-width: 768px) and (max-width: 991px){
+    .menu li a{
+       
+        padding:0 13px;
+        font-size: 13px;
+        
+    }
+    .containerr{
+        width: 100%;
+        margin: auto;
+    }
+}
+@media (min-width: 576px) and (max-width: 767px){
+    .FooseShoes{
+        text-align: center;
+    }
+    .mid-from {
+        text-align: center;
+    }
+    .menu li a{
+       
+        padding:0 15px;
+        font-size: 16px;
+        
+    }
+    .menu{
+    text-align: center;
+    display: none;
+    }
+    .mid-star{
+        text-align: center;
+       
+        }
+    .bar{
+        display: block;
+        cursor: pointer;
+    }
+    .menucont h3 {
+        margin: 0px 10px;
+        display: block;
+        text-align: center;
+        font-size: 16px;
+        cursor: pointer;
+    }
+    .menucont p {
+        margin: 0px 10px;
+        display: block;
+        text-align: center;
+        font-size: 10px;
+        cursor: pointer;
+    }
+}
+@media (min-width: 250px) and (max-width: 575px){
+    .FooseShoes{
+        text-align: center;
+    }
+    .mid-from {
+        text-align: center;
+    }
+    .menu li a{
+       
+        padding:0 10px;
+        font-size: 13px;
+        
+    }
+    .countdown_con h2{
+        font-size: 14px;
+    }
+        .mid-star{
+            text-align: center;
+            font-size: 13px;
+           
+            }
+            .menu{
+                text-align: center;
+                display: none;
+                }
+                .mid-star{
+                    text-align: center;
+                   position: relative;
+                    }
+                .bar{
+                    display: block;
+                    cursor: pointer;
+                }
+                .containerr{
+                    width: 100%;
+                    margin: auto;
+                }
+                .menucont h3 {
+                    margin: 0px 5px;
+                    display: block;
+                    text-align: center;
+                    font-size: 12px;
+                    cursor: pointer;
+                }
+                .menucont p {
+                    margin: 0px 5px;
+                    display: block;
+                    text-align: center;
+                    font-size: 8px;
+                    cursor: pointer;
+                }
+               
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.menu-2{
+    text-align: center;
+    background: #d9cece;
+    display: none;
+}
+.menu-2 li a{
+    text-decoration: none;
+    padding:0 15px;
+    font-size: 20px;
+    color: #242424;
+   
+    }
+    .menu-2 li a:hover{
+        text-decoration: none;
+        padding:0 15px;
+        font-size: 20px;
+        color: #c61010;
+       
+        }
